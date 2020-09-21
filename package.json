@@ -1,0 +1,26 @@
+{
+  "name": "races",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex198015/races.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex198015/races/issues"
+  },
+  "homepage": "https://github.com/alex198015/races#readme",
+  "devDependencies": {
+    "electron": "^10.1.2",
+    "electron-packager": "^15.1.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}

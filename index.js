@@ -21,7 +21,7 @@ audio.type = 'audio/mpeg'
 audio.volume = 0.5
 audio.loop = true
 audio.controls = true
-audio.style.cssText = `position: absolute; top: 180px; left: 100px`
+audio.style.cssText = `position: absolute; top: -100px; left: 100px`
 
 car.classList.add('car')
 
